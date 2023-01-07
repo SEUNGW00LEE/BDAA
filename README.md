@@ -3,6 +3,8 @@ Big Data Analysts
 
 https://cerulean-cord-e77.notion.site/BDA-e6c492e16606491c9ba478d92d135350
 
+https://drive.google.com/drive/folders/1_jvJYxECnyWN1JZ0IiZBKz2TcR-8LVj1
+
 
 # 데이터 분석 기초반
 
