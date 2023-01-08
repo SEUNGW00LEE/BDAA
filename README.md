@@ -1,10 +1,10 @@
 # BDAA
+
 Big Data Analysts
 
 https://cerulean-cord-e77.notion.site/BDA-e6c492e16606491c9ba478d92d135350
 
 https://drive.google.com/drive/folders/1_jvJYxECnyWN1JZ0IiZBKz2TcR-8LVj1
-
 
 # 데이터 분석 기초반
 
@@ -18,4 +18,6 @@ https://drive.google.com/drive/folders/1_jvJYxECnyWN1JZ0IiZBKz2TcR-8LVj1
 - 사이킷런을 이용한 데이터 분석 전반적인 파이프라인 개념
 - 중간에 배운 내용을 바탕으로 분석 보고서 리포트 작성 필수
 
+* 22.12.01~ 23.01.01 까지 휴강
 
+* 23.01.08부터
